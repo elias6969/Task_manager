@@ -1,0 +1,6 @@
+Elias schema
+Task Title: st„da min rum
+Priority: high
+Status: working on it
+Due In: 3 days
+-------------------------
